@@ -1,3 +1,4 @@
 # README
 
-* it is first commit
+* it is first commit in project
+* By Ahmed Gamal
